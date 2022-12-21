@@ -1,6 +1,6 @@
 <html>
 <body>
-<h2 style="color:red">Hello  Jayanthi 
+<h2 style="color:pink">Hello  Jayanthi 
   welcome</h2>
 </body>
 </html>
